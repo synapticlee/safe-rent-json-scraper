@@ -1,0 +1,542 @@
+{
+  "items": [
+    {
+      "reviewStarRating": 1,
+      "displayName": "James R",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4620611",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4620611_0",
+          "title": "Customer Response",
+          "text": "What a horrible screening service . Reported false information and my FICO score was 70 points lower than everywhere else . By the looks of the reviews seems like Im not the only one . We make 6x the rent offered higher deposit and still denied ",
+          "date": {
+            "day": "16",
+            "month": "04",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4620611_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "SafeRent Solutions receives FICO/VantageScore's directly from the bureau at the time of screening. If you feel there are items on your report that are incorrect, please contact our Consumer Support Team at ************- and we would be happy to initiate a dispute with the credit bureau on your behalf. Sincerely, SafeRent Solutions. ",
+          "date": {
+            "day": "17",
+            "month": "04",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "959fc621-9e70-4629-b56f-b0079db28311",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "16",
+        "month": "04",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Jasmine B",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4619603",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4619603_0",
+          "title": "Customer Response",
+          "text": "Its truly disheartening to see how incorporating this rental screening measure has created significant challenges for individuals seeking housing. Many people are facing the risk of homelessness despite having higher credit scores, the means to afford a property, and strong rental histories. Its frustrating that companies are promoting a system that relies on an unreliable rental score, making it even more difficult for renters to find the homes they need. This situation underscores the importance of compassion and understanding in the rental process.",
+          "date": {
+            "day": "08",
+            "month": "04",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4619603_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "SafeRent no longer provides a Rental Score. Properties may order either a FICO or VantageScore only.  If you would like to contact our consumer support team, they would be happy to go over the list of reports that the property management received.  They can be reached at ************.  Sincerely, SafeRent Solutions",
+          "date": {
+            "day": "09",
+            "month": "04",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "e9c91679-f0ea-4db3-b65c-9b22ff1bb066",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "08",
+        "month": "04",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Erynn D",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4615366",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4615366_0",
+          "title": "Customer Response",
+          "text": "This company is an absolute joke. It is almost a slap in the face. You can have a 650 credit score, and then get denied for a \"Safe Rent\" score by 9 points. Me and my fianc both had 642+ credit scores and he has $200.00 in debt(active) pays on it monthly. I have 0 debt because I had a discharged bankruptcy case and in their terms it states it cannot be held against you as long as it is discharged. Mine has been discharged for MONTHS. They are an absolute slap in the face. Now I see why there has been so many complaints, and even lawsuits. We have been building and building our credit. We have been at our current place since 2021 and they do not report to the credit bureaus, but we have a FULL history of 4 years of rent PAID ON TIME. This place is an absolute JOKE! ",
+          "date": {
+            "day": "01",
+            "month": "03",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4615366_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "Greetings,SafeRent Solutions is a tenant screening company and does not make approval or denial decisions. The Landlord or Property ****************** is responsible for determining and setting their minimum requirements for acceptance, including the tenant screening score.If you would like to request a Consumer File Disclosure (CFD) of the records that SRS maintains such as criminal or eviction records (excluding bureau credit data), you may do so by visiting www.saferentsolutions.com.If a CFD is requested and you would like to dispute any information or records within that disclosure, *** would be happy to open a dispute on your behalf. You may reach our Consumer Support team at ************.",
+          "date": {
+            "day": "03",
+            "month": "03",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "122ba7cc-92d8-4cb6-8e4a-97bccdd16c56",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "01",
+        "month": "03",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Savannah W",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4612346",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4612346_0",
+          "title": "Customer Response",
+          "text": "Ive been denied on a rental house. I have 700 credit score. Our combined income is 8.5x the rent. We have amazing rental history and still were denied for a home by a property management who outsource to SafeRent rental score. I feel as if this needs to be explained into why this score was given besides them saying credit, rental history, etc. Property managements shouldnt be able to use a unaccredited company for this",
+          "date": {
+            "day": "03",
+            "month": "02",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4612346_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "Greetings,  SafeRent Solutions does not make decisions on rental applications. Each property management sets their own level of acceptable rental score based on their own criteria.  When you apply with a co-applicant, the score is a combination of both files. If both you and your co-applicant would like to review your reports to see what may have impacted the rental score, you may contact Consumer Support, individually, at ************.  Sincerely, SafeRent Solutions.",
+          "date": {
+            "day": "06",
+            "month": "02",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "eae35ef5-e339-45d2-a8b5-3d909aa90a5b",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "03",
+        "month": "02",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Elsie P",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4609814",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4609814_0",
+          "title": "Customer Response",
+          "text": "We have tried to rent a home and now an apartment and for both of them the letter provided from SafeRent to the complex says DENIED. I have lived in my complex for 14 yers and I pay my rent on time.  I want to move due to increase. I found a beautiful house and also a complex that was bigger than i have cheaper and I cant even move due to this company. This also says that they are not even BBB accredited  Where did this company come from and why areProperty Management using them. If all they give is false information. ",
+          "date": {
+            "day": "09",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4609814_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "SafeRent Solutions does not make decisions on rental applications. The property sets their own acceptance criteria. If you feel anything in your tenant screening report that was provided is incorrect, please reach out to our *************************** at ************* and we would be happy to file a dispute on your behalf. Sincerely, SafeRent Solutions. ",
+          "date": {
+            "day": "11",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "63abd9dc-b18d-4d52-b2ae-5e8efdedf13c",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "09",
+        "month": "01",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Hank D",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4609626",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4609626_0",
+          "title": "Customer Response",
+          "text": "Don't give this Company any information on yourself.  They made a false report on me, and when I tried to correct it; they kept giving me one excuse after another.  ",
+          "date": {
+            "day": "08",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4609626_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "Greetings,  *** sent you a copy of your report yesterday, and have not heard back from you stating that anything on the report that we provided is incorrect. If you do wish to dispute an item on your report, please contact our Consumer Support team at ************.",
+          "date": {
+            "day": "09",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "90d58d6b-0c1b-408c-ae5e-272ea781bd29",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "08",
+        "month": "01",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Eugene G",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4609227",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4609227_0",
+          "title": "Customer Response",
+          "text": "Which is company trust this people ?!?! They screening not accurate at all.",
+          "date": {
+            "day": "05",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4609227_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "Greetings ******. I do not see your name in our system. If you had a screening performed through SafeRent Solutions, please contact our Consumer Support Team, so that we can review your report with you. We can submit disputes to the furnishers of the data on your behalf. ************. Sincerely, SafeRent Solutions ",
+          "date": {
+            "day": "08",
+            "month": "01",
+            "year": "2025"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "dc17a58e-50c3-4d02-8351-7978cd6ac781",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "05",
+        "month": "01",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Quanisha K",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4603435",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4603435_0",
+          "title": "Customer Response",
+          "text": "The worst! been praying hard on the house and i had to apply through safe rent! i see why they have a lawsuit out that they lost too! i made sure my credit was about the requirement before i even applied. so i apply SafeRent say my credit score is over 100 points less than my credit score. so i called Saferent to see which credit bureau they used. They told me Equifax. I had equifax and they confirmed they see the inquiry and that my credit score was over 100 points more than what SafeRent told the house i applied for. Im beyong ****** and thinking about doing a lawsuit myself. Becuase i am a black single mom just lik the first lawsuit they have out saying they are racist !",
+          "date": {
+            "day": "18",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4603435_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "Greetings, The score provided on the screening report is a Rental Score, not a credit score.  On that section of the report, there is a statement to that fact as well.  The rental score is factored differently than a credit score model.   Please contact our consumer support team, if you would like to review your report with an agent.  **************.",
+          "date": {
+            "day": "20",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "d748d19b-016e-435d-8100-3a41a36516e6",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "18",
+        "month": "11",
+        "year": "2024"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Chas A",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4602130",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4602130_0",
+          "title": "Customer Response",
+          "text": "The apartments do make their own decision based on SafeRents RECOMMENDATION. They dont just provide information (which is A LOT of information about your life). They are a big factor of the apartments decision by giving an opinion and made up score. Its invasive and inhumane. My family and I are struggling to find a place because of this company. Yes, BECAUSE of this company because I never had a problem before. ***** places that use this company at all cost.",
+          "date": {
+            "day": "10",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4602130_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "SafeRent is unable to locate a transaction with the name given. If you would like to review your reports, please contact our Consumer Support Team to provide additional information at : ************",
+          "date": {
+            "day": "12",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "64687cf8-d44b-4ccf-8159-d9789dbefb67",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "10",
+        "month": "11",
+        "year": "2024"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
+      "displayName": "Aaron N",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4602114",
+      "extendedText": [
+        {
+          "id": "0875_90386606_4602114_0",
+          "title": "Customer Response",
+          "text": "Went to apply for an apartment-unit, which was approved by the complex, initially; although this so called' out-of-state \"company\" SafeRent Solutions' sends me an email stating: the application was denied, because of bad-credit... ",
+          "date": {
+            "day": "09",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": false,
+          "isCustomer": true,
+          "isBureau": false
+        },
+        {
+          "id": "0875_90386606_4602114_1",
+          "title": "SafeRent Solutions, LLC Response",
+          "text": "SafeRent Solutions does not make decisions on applications.  The Property ****************** sets their own criteria for acceptance and denial.  If you would like to review your report, to see what may  have not met the property's criteria- please contact Consumer Support at ************.",
+          "date": {
+            "day": "11",
+            "month": "11",
+            "year": "2024"
+          },
+          "isBusiness": true,
+          "isCustomer": false,
+          "isBureau": false
+        }
+      ],
+      "hasExtendedText": true,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "18b0d441-e70a-4a60-abb9-0b8273cd240d",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": null,
+      "date": {
+        "day": "09",
+        "month": "11",
+        "year": "2024"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    }
+  ],
+  "reviewId": null,
+  "businessId": "90386606",
+  "bbbId": "0875",
+  "numFound": 39,
+  "page": 1,
+  "pageSize": 10,
+  "totalPages": 4,
+  "sort": "reviewDate desc, id desc"
+}
