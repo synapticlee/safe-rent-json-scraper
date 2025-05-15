@@ -2,6 +2,32 @@
   "items": [
     {
       "reviewStarRating": 1,
+      "displayName": "Najala B",
+      "customerResponseText": null,
+      "businessRebuttalDate": null,
+      "businessRebuttalText": null,
+      "customerResponseDate": null,
+      "id": "0875_90386606_4622456",
+      "extendedText": [],
+      "hasExtendedText": false,
+      "orgId": 74160772,
+      "reviewStatusId": 1,
+      "customerCommentStatusId": null,
+      "customerReviewGuid": "efeb392a-2e35-4361-9ce4-a08f7731c4ee",
+      "hasAddComment": false,
+      "hasPendingAddComment": false,
+      "hasPendingDeleteReview": false,
+      "text": "Safe rent says that the complex makes their own decisions and yet those decisions, are based off of safe rents report. In the report they use Equifax score and they also have something on there called the safe rent score. Im assuming they use the two scores together to come up with the generated score because my Equifax score is 100 points higher than the one they reported. ",
+      "date": {
+        "day": "07",
+        "month": "05",
+        "year": "2025"
+      },
+      "businessResponseDate": null,
+      "businessResponseText": null
+    },
+    {
+      "reviewStarRating": 1,
       "displayName": "James R",
       "customerResponseText": null,
       "businessRebuttalDate": null,
@@ -476,65 +502,12 @@
       },
       "businessResponseDate": null,
       "businessResponseText": null
-    },
-    {
-      "reviewStarRating": 1,
-      "displayName": "Aaron N",
-      "customerResponseText": null,
-      "businessRebuttalDate": null,
-      "businessRebuttalText": null,
-      "customerResponseDate": null,
-      "id": "0875_90386606_4602114",
-      "extendedText": [
-        {
-          "id": "0875_90386606_4602114_0",
-          "title": "Customer Response",
-          "text": "Went to apply for an apartment-unit, which was approved by the complex, initially; although this so called' out-of-state \"company\" SafeRent Solutions' sends me an email stating: the application was denied, because of bad-credit... ",
-          "date": {
-            "day": "09",
-            "month": "11",
-            "year": "2024"
-          },
-          "isBusiness": false,
-          "isCustomer": true,
-          "isBureau": false
-        },
-        {
-          "id": "0875_90386606_4602114_1",
-          "title": "SafeRent Solutions, LLC Response",
-          "text": "SafeRent Solutions does not make decisions on applications.  The Property ****************** sets their own criteria for acceptance and denial.  If you would like to review your report, to see what may  have not met the property's criteria- please contact Consumer Support at ************.",
-          "date": {
-            "day": "11",
-            "month": "11",
-            "year": "2024"
-          },
-          "isBusiness": true,
-          "isCustomer": false,
-          "isBureau": false
-        }
-      ],
-      "hasExtendedText": true,
-      "orgId": 74160772,
-      "reviewStatusId": 1,
-      "customerCommentStatusId": null,
-      "customerReviewGuid": "18b0d441-e70a-4a60-abb9-0b8273cd240d",
-      "hasAddComment": false,
-      "hasPendingAddComment": false,
-      "hasPendingDeleteReview": false,
-      "text": null,
-      "date": {
-        "day": "09",
-        "month": "11",
-        "year": "2024"
-      },
-      "businessResponseDate": null,
-      "businessResponseText": null
     }
   ],
   "reviewId": null,
   "businessId": "90386606",
   "bbbId": "0875",
-  "numFound": 39,
+  "numFound": 40,
   "page": 1,
   "pageSize": 10,
   "totalPages": 4,
